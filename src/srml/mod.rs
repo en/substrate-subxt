@@ -5,6 +5,7 @@ use std::marker::PhantomData;
 
 pub mod balances;
 pub mod contracts;
+pub mod superfluid;
 pub mod system;
 
 /// Creates module calls
